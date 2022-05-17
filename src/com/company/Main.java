@@ -15,6 +15,8 @@ public class Main {
         Xfac1.color="green";
         Xfac1.radius = "2345";
         Xfac1.Heat = "454";
+        System.out.println("34343");
         
+
     }
 }
