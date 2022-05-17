@@ -10,6 +10,11 @@ public class Main {
         Xfac.Star = "60";
         Xfac.Planet ="12";
         Xfac.Sun = "1";
-
+              // adding features here
+        FeatureSun Xfac1 = new FeatureSun();
+        Xfac1.color="green";
+        Xfac1.radius = "2345";
+        Xfac1.Heat = "454";
+        
     }
 }
