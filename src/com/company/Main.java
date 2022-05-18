@@ -16,6 +16,15 @@ public class Main {
         Xfac1.radius = "2345";
         Xfac1.Heat = "454";
         System.out.println("34343");
+
+
+        //adding the feature for star in the solar system
+
+        FeatureStars Facx = new FeatureStars();
+        Facx.color= Red;
+        Facx.radius="3435";
+        Facx.size="65";
+
         
 
     }
