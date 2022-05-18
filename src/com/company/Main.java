@@ -21,7 +21,7 @@ public class Main {
         //adding the feature for star in the solar system
 
         FeatureStars Facx = new FeatureStars();
-        Facx.color= Red;
+        Facx.color= "Red";
         Facx.radius="3435";
         Facx.size="65";
 
